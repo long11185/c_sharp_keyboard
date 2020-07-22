@@ -1,0 +1,10 @@
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\bin\Release\KeyBoard.exe
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\bin\Release\KeyBoard.pdb
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\obj\Release\KeyBoardUI.FormKeyBoard.resources
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\obj\Release\KeyBoardUI.Properties.Resources.resources
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\obj\Release\KeyBoardUI.UC_KeyBoard.resources
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\obj\Release\KeyBoardUI.csproj.GenerateResource.Cache
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\obj\Release\KeyBoard.exe
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\obj\Release\KeyBoard.pdb
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\obj\Release\KeyBoardUI.csprojResolveAssemblyReference.cache
+E:\cq\SVNCheckOut\Git\station-front\PCWare\KeyBoardUI\KeyBoardUI\obj\Release\KeyBoardUI.FormMessBox.resources
